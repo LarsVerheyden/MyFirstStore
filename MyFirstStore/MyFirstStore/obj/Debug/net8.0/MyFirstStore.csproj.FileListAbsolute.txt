@@ -1,0 +1,15 @@
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\bin\Debug\net8.0\MyFirstStore.exe
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\bin\Debug\net8.0\MyFirstStore.deps.json
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\bin\Debug\net8.0\MyFirstStore.runtimeconfig.json
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\bin\Debug\net8.0\MyFirstStore.dll
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\bin\Debug\net8.0\MyFirstStore.pdb
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.AssemblyInfoInputs.cache
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.AssemblyInfo.cs
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.csproj.CoreCompileInputs.cache
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.sourcelink.json
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.dll
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\refint\MyFirstStore.dll
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.pdb
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\MyFirstStore.genruntimeconfig.cache
+C:\Users\s136636\Desktop\Basis Programmeren\MyFirstStore\MyFirstStore\MyFirstStore\obj\Debug\net8.0\ref\MyFirstStore.dll
